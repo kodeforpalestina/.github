@@ -13,7 +13,24 @@
 ## Prosjekter
 
 ### Mediaanalyse
-Monitorering av media og analysere dekning av konflikten og det pågående folkemordet.
+Monitorering av media og analysere dekning av konflikten og det pågående folkemordet. ("Snytt på nytt" er et eksempel som har dukket opp i det siste.)
 
 ### Stortinget
 Monitorering av våre folkevalgte på Stortinget, og lage oversikt over hvilke representanter som stemmer i forslag relatert til Palestina.
+
+### Oversikt over aktivister, organisasjoner
+Lage en oversikt over organisasjoner som bidrar til Palestinasaken, både i Norge og i verden forøvrig. Kan være et nyttig verktøy for å koordinere innsats. 
+
+### Publisering av statistikker
+Kontinuerlig lage enkle, tydelige, lettfattelige statistikker som kan deles i sosiale medier og brukes av organisasjoner i deres arbeid. Vi kan også ta bestillinger fra organisasjoner og lage gode kart, illustrasjoner, grafer som synliggjør realiteten i Palestina. 
+
+### Oversikt over mulige handlinger, taktikker for aktivisme
+Lage en oversikt over kjente type aktivisthandlinger som kan gi effekt: et oppslagsverk for kreativ aktivisme. 
+
+
+
+
+
+
+
+
